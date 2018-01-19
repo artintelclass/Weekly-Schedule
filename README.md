@@ -18,7 +18,7 @@
 ### Week 2 - More ML for Interaction
 
 - Regression
-  - Linear/Plynomial
+  - Linear/Polynomial
   - Neural Net (soft intro)
 - Classification Pt. 2
   - Naive Bayes
