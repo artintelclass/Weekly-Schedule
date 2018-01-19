@@ -95,7 +95,7 @@
 ### Weeks 9 &amp; 10 - Images
 
 - Convolutional Neural Nets
-  - Image Classification - [CIFAR-10](https://github.com/fchollet/keras/blob/master/examples/cifar10_cnn.py) ( [online demo](http://ml4a.github.io/dev/demos/cifar_confusion.html))
+  - Image Classification - [CIFAR-10](https://github.com/fchollet/keras/blob/master/examples/cifar10_cnn.py) ( [online demo](http://ml4a.github.io/demos/confusion_cifar/))
   - [deep dream](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/deepdream)
   - [style transfer](https://github.com/cysmith/neural-style-tf)
   - [photo realistic style transfer](https://github.com/LouieYang/deep-photo-styletransfer-tf)
