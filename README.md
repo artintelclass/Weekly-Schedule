@@ -111,7 +111,6 @@
 
 - Recurrent Neural Nets
   - LSTM
-  - GRU
 - Applications of RNN
 - Generating Text
 - Readings
