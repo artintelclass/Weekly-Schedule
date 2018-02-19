@@ -61,7 +61,7 @@
   * [AI programs exhibit racial and gender biases](https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals)
   * [Is AI Sexist](http://foreignpolicy.com/2017/01/16/women-vs-the-machine/)
 
-### Week ~~5~~6 - Neural Nets from scratch: Math
+### Week ~~5~~ 6 - Neural Nets from scratch: Math
 
 - Linear Algebra Primer
   - Vectors
@@ -79,14 +79,14 @@
   - [Machine Ethics](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
   - [Moral Machine](http://moralmachine.mit.edu/)
 
-### Week ~~6~~7  - Neural Nets from scratch: Code
+### Week ~~6~~ 7  - Neural Nets from scratch: Code
 
 - MNIST
 - Python: Jupyter, IPython, Numpy, SciPy, etc.
 - Reading
   - Deep Learning History:  [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
 
-# Week ~~7~~8 - _A.I. Speculative Design Project Due_
+# Week ~~7~~ 8 - _A.I. Speculative Design Project Due_
 
 - Intro to Tensorflow
 - Intro to Keras
