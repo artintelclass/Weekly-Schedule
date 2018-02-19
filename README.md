@@ -27,13 +27,14 @@
   - Probability
   - Multiple Classifiers
 - Readings
-  - AI Revolution Parts [1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) &amp; [2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
+  - AI Revolution Parts [1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) ~~&amp; [2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)~~
   - Play [Paperclips](http://www.decisionproblem.com/paperclips/)
 
 ### Week 3 - Time Based Interactions
 
-- Dynamic Time Warping
+- ~~Dynamic Time Warping~~ (Moved to week 4)
 - Various sensing methods
+  - Kinect
   - Vision - OpenCV
     - Fiducials
     - Frame Differencing
@@ -46,18 +47,19 @@
     - [Maximilian](http://maximilian.strangeloop.co.uk/)
     - [http://www.sonicvisualiser.org/](http://www.sonicvisualiser.org/)
 - Readings
-  - [Ethics of Machine Intelligence](http://us8.campaign-archive1.com/?u=bdb368b9a389b010c19dbcd54&amp;id=f2e0882b79)
-  - [Filtering Dissent](https://newleftreview.org/II/99/rodrigo-ochigame-james-holston-filtering-dissent)
-  - Breaking The Black Box - Parts [3](https://www.propublica.org/article/breaking-the-black-box-when-machines-learn-by-experimenting-on-us) &amp; [4](https://www.propublica.org/article/breaking-the-black-box-how-machines-learn-to-be-racist?word=Trump)
-  - [Facial Recognition](https://www.eff.org/deeplinks/2016/10/memo-doj-facial-recognitions-threat-privacy-worse-anyone-thought)
+  - AI Revolution Parts [2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
+  - ~~[Ethics of Machine Intelligence](http://us8.campaign-archive1.com/?u=bdb368b9a389b010c19dbcd54&amp;id=f2e0882b79)~~
+  - ~~[Filtering Dissent](https://newleftreview.org/II/99/rodrigo-ochigame-james-holston-filtering-dissent)~~
+  - ~~Breaking The Black Box - Parts [3](https://www.propublica.org/article/breaking-the-black-box-when-machines-learn-by-experimenting-on-us) &amp; [4](https://www.propublica.org/article/breaking-the-black-box-how-machines-learn-to-be-racist?word=Trump)~~
+  - ~~[Facial Recognition](https://www.eff.org/deeplinks/2016/10/memo-doj-facial-recognitions-threat-privacy-worse-anyone-thought)~~
 
-# Week 4 - _Interaction Project Due_
+# Week ~~4~~ 5 - _Interaction Project Due_
 
 - Intro to Neural Networks
 - The Perceptron
 - Readings
-  - [Machine Ethics](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
-  - [Moral Machine](http://moralmachine.mit.edu/)
+  * [AI programs exhibit racial and gender biases](https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals)
+  * [Is AI Sexist](http://foreignpolicy.com/2017/01/16/women-vs-the-machine/)
 
 ### Week 5 - Neural Nets from scratch: Math
 
@@ -73,6 +75,9 @@
 - Gradient Descent
 - Reading
   - Make Your Own Neural Network, Part 1 - How They Work, Tariq Rashid
+- Readings
+  - [Machine Ethics](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
+  - [Moral Machine](http://moralmachine.mit.edu/)
 
 ### Week 6  - Neural Nets from scratch: Code
 
