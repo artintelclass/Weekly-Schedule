@@ -90,6 +90,8 @@
 
 # Week 7 (ALSO) - _A.I. Speculative Design Project Due_
 
+### SPRING BREAK
+
 ### Week 8
 - Intro to Tensorflow
 - Intro to Keras
