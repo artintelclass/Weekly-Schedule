@@ -59,7 +59,7 @@
 - The Perceptron
 - Readings
   * [AI programs exhibit racial and gender biases](https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals)
-  * [Is AI Sexist](http://foreignpolicy.com/2017/01/16/women-vs-the-machine/)
+  * [Combating Bias](https://www.bloomberg.com/news/articles/2017-12-04/researchers-combat-gender-and-racial-bias-in-artificial-intelligence)
 
 ### Week ~~5~~ 6 - Neural Nets from scratch: Math
 
