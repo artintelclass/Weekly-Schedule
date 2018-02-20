@@ -75,9 +75,11 @@
 - Gradient Descent
 - Reading
   - Make Your Own Neural Network, Part 1 - How They Work, Tariq Rashid
+- Other
+  - [Moral Machine](http://moralmachine.mit.edu/)
 - Readings
   - [Machine Ethics](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
-  - [Moral Machine](http://moralmachine.mit.edu/)
+  - [Speculative Design Chapter 1](http://readings.design/PDF/speculative-everything.pdf)
 
 ### Week ~~6~~ 7  - Neural Nets from scratch: Code
 
