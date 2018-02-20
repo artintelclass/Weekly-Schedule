@@ -88,11 +88,10 @@
 - Reading
   - Deep Learning History:  [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
 
-# Week 7 (ALSO) - _A.I. Speculative Design Project Due_
-
 ### SPRING BREAK
 
-### Week 8
+# Week 8 - _A.I. Speculative Design Project Due_
+
 - Intro to Tensorflow
 - Intro to Keras
 
