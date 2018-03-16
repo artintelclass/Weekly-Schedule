@@ -86,7 +86,7 @@
 - MNIST
 - Python: Jupyter, IPython, Numpy, SciPy, etc.
 - Reading
-  - Deep Learning History:  [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
+  - ~~Deep Learning History: http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/~~
 
 ### SPRING BREAK
 
@@ -94,6 +94,7 @@
 
 - Intro to Tensorflow
 - Intro to Keras
+- Deep Learning History:  [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
 
 ### ~~Week 8 - Unsupervised Learning~~ We'll work some of this stuff in somewhere.
 
