@@ -167,6 +167,6 @@
 * [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) (torch)  
 
 
-### Weeks 13 - Final Project Work
+### Week 13 - Final Project Work
 
 # Week 14 - _Final Project Due_
