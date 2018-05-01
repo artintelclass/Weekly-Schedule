@@ -53,7 +53,7 @@
   - ~~Breaking The Black Box - Parts [3](https://www.propublica.org/article/breaking-the-black-box-when-machines-learn-by-experimenting-on-us) &amp; [4](https://www.propublica.org/article/breaking-the-black-box-how-machines-learn-to-be-racist?word=Trump)~~
   - ~~[Facial Recognition](https://www.eff.org/deeplinks/2016/10/memo-doj-facial-recognitions-threat-privacy-worse-anyone-thought)~~
 
-# Week ~~4~~ 5 - _Interaction Project Due_
+# Week 5 - _Interaction Project Due_
 
 - Intro to Neural Networks
 - The Perceptron
@@ -61,7 +61,7 @@
   * [AI programs exhibit racial and gender biases](https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals)
   * [Combating Bias](https://www.bloomberg.com/news/articles/2017-12-04/researchers-combat-gender-and-racial-bias-in-artificial-intelligence)
 
-### Week ~~5~~ 6 - Neural Nets from scratch: Math
+### Week 6 - Neural Nets from scratch: Math
 
 - Linear Algebra Primer
   - Vectors
@@ -81,55 +81,47 @@
   - [Machine Ethics](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
   - [Speculative Design Chapter 1](http://readings.design/PDF/speculative-everything.pdf)
 
-### Week ~~6~~ 7  - Neural Nets from scratch: Code
+### Week 7  - Neural Nets from scratch: Code
 
 - MNIST
 - Python: Jupyter, IPython, Numpy, SciPy, etc.
 - Reading
-  - ~~Deep Learning History: http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/~~
+  - Deep Learning History: http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
 
 ### SPRING BREAK
 
 # Week 8 - _A.I. Speculative Design Project Due_
 
-- Intro to Tensorflow
-- Intro to Keras
-- Deep Learning History:  [http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
 
-### ~~Week 8 - Unsupervised Learning~~ We'll work some of this stuff in somewhere.
+### Week 9 - More Neural Networks
 
-- Clustering
-- Autoencoders
-- Generative Adversarial Networks
+- Activation Functions
+	* binary step, linear, sigmoid, tanh, ReLU, softmax
+- Optimization
+	* stochastic/batch/minibatch, momentum, decay
+	* adaptive methods
+    	* adagrad, adadelta, rmsprop
+	* adam
+- Loss Functions
+	* Square Error, Cross Entropy
+- Intro Keras/Tensorflow 
 
-### Weeks 9 &amp; 10 - Images
+### Week 10 - Convolution Neural Networks
 
-- Convolutional Neural Nets
-  - Image Classification - [CIFAR-10](https://github.com/fchollet/keras/blob/master/examples/cifar10_cnn.py) ( [online demo](http://ml4a.github.io/demos/confusion_cifar/))
-  - [deep dream](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/deepdream)
-  - [style transfer](https://github.com/cysmith/neural-style-tf)
-  - [photo realistic style transfer](https://github.com/LouieYang/deep-photo-styletransfer-tf)
-  - [pix2pix](https://github.com/memo/pix2pix-tensorflow)
-- [Compositional Pattern Producing Network](http://blog.otoro.net/2016/03/25/generating-abstract-patterns-with-tensorflow/)
-  - [https://github.com/hardmaru/cppn-tensorflow](https://github.com/hardmaru/cppn-tensorflow)
-- GAN - VAE
-  - [http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/)
-  - [https://github.com/hardmaru/cppn-gan-vae-tensorflow](https://github.com/hardmaru/cppn-gan-vae-tensorflow)
-- t-sne
 
-# Week 11 - _Visual Project Due_
+- Architectures 
+- Image Classification - [CIFAR-10](https://github.com/fchollet/keras/blob/master/examples/cifar10_cnn.py) ( [online demo](http://ml4a.github.io/demos/confusion_cifar/))
+- [deep dream](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/deepdream)
+- [style transfer](https://github.com/cysmith/neural-style-tf)
+- [photo realistic style transfer](https://github.com/LouieYang/deep-photo-styletransfer-tf)
 
-- Recurrent Neural Nets
-  - LSTM
+### Week 11 - Recurrent Neural Networks
+
+- RNN
+- LSTM
 - Applications of RNN
 - Generating Text
-- Readings
-  - [http://karpathy.github.io/2015/05/21/rnn-effectiveness/](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-  - [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-  - [https://arstechnica.com/gaming/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/](https://arstechnica.com/gaming/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/)
-
-### Weeks 12 &amp; 13 - Sound
-
+#### Sound
 - [Magenta](https://magenta.tensorflow.org/) (RNN)
   - [drum patterns](https://github.com/tensorflow/magenta/tree/master/magenta/models/drums_rnn)
   - [melody](https://github.com/tensorflow/magenta/tree/master/magenta/models/melody_rnn)
@@ -150,5 +142,31 @@
   - [https://lyrebird.ai/](https://lyrebird.ai/)
 - Reading
   - [https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0](https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0)
+- Readings
+  - [http://karpathy.github.io/2015/05/21/rnn-effectiveness/](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+  - [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  - [https://arstechnica.com/gaming/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/](https://arstechnica.com/gaming/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/)
 
-# Week 14 - _Sound Project Due_
+### Week 12 - Generative Models
+
+
+* [PCA Faces](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/eigenfaces.ipynb)
+* [VAE](https://github.com/jmetzen/jmetzen.github.com/blob/source/content/notebooks/vae.ipynb)
+* [DCGAN](https://github.com/carpedm20/DCGAN-tensorflow)
+* [BEGAN](https://github.com/carpedm20/BEGAN-tensorflow)
+* [Progressive Growth GAN](https://github.com/tkarras/progressive_growing_of_gans)
+* [InfoGAN](https://github.com/JonathanRaiman/tensorflow-infogan)
+* [DiscoGan](https://github.com/carpedm20/DiscoGAN-pytorch) (pytorch)
+* [StackedGAN](https://github.com/hanzhanggit/StackGAN)
+* [GANGogh](https://github.com/rkjones4/GANGogh)
+* [DGN](https://github.com/Evolving-AI-Lab/synthesizing) (caffe)
+* [CPPN/VAE/GAN](https://github.com/hardmaru/cppn-gan-vae-tensorflow) 
+* [RESNET/CPPN/GAN](https://github.com/hardmaru/resnet-cppn-gan-tensorflow)
+* [pix2pix](https://github.com/memo/pix2pix-tensorflow)
+* [CycleGAN](https://github.com/xhujoy/CycleGAN-tensorflow)
+* [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) (torch)  
+
+
+### Weeks 13 - Final Project Work
+
+# Week 14 - _Final Project Due_
